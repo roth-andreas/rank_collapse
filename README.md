@@ -48,4 +48,8 @@ If you use this code in your research, please cite our paper:
   year={2023},
   organization={PMLR}
 }
+```
 
+## Acknowledgement
+
+Funded by the Federal Ministry of Education and Research (BMBF) under grant no. 01IS22094E WEST-AI. Part of this research has been funded by the Federal Ministry of Education and Research of Germany and the state of North-Rhine Westphalia as part of the Lamarr-Institute for Machine Learning and Artificial Intelligence.
